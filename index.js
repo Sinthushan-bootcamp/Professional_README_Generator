@@ -14,7 +14,7 @@ const questions = [
         'Microsoft Public License', 
         'Creative Commons license family'
     ], name: 'license'},
-    {type: 'input', message: "What command should be run to install dependencies?", name: 'dependencies'},
+    {type: 'input', message: "What command should be run to install dependencies?", name: 'install'},
     {type: 'input', message: "what command should be run to run tests?", name: 'tests'},
     {type: 'input', message: "What does the user need to know about using the repo?", name: 'usage'},
     {type: 'input', message: "What does the user need to know about contributing to the repo?", name: 'contribution'}
