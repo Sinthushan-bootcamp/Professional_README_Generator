@@ -18,8 +18,10 @@
   npm i
   ```
   ## Usage
-  First clone the repo and from the command line CD into the directory. Once in the directory run the install command and then run node index.js command
-
+  First clone the repo and from the command line CD into the directory. Once in the directory follow the [install instructions](#installation) and then run ```node index.js``` command
+  
+  Please refer to this [video demonstration](https://drive.google.com/file/d/1zukEkvmkSCvR9fMsxkUVM0b-FHQJudkb/view?usp=sharing) for more information.
+  
   ## License
   This project is licensed under the MIT.
 
