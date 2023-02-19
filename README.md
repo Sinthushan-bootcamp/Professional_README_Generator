@@ -1,7 +1,8 @@
-# test
+# README Genarator
+  ![MIT license](https://img.shields.io/badge/license-MIT-blue)
   ## Description 
   
-  sdjfkl
+  Based on a seriese of command line prompts this application will generate a full fledged README
 
   ## Table of Contents
   * [installation](#installation)
@@ -17,13 +18,13 @@
   npm i
   ```
   ## Usage
-  sdkflj
+  First clone the repo and from the command line CD into the directory. Once in the directory run the install command and then run node index.js command
 
   ## License
   This project is licensed under the MIT.
 
   ## Contributing
-  sdklfj
+  email me if you wish to contribute
 
   ## Tests
   To run test, run the following command:
@@ -32,4 +33,4 @@
   ```
 
   ## Questions
-  If you have any questions about the repo, open an issue or contact me directly at sinthushan@gmail.com. you can find more of my work at [sinthushan](https://github.com/sinthushan)
+  If you have any questions about the repo, open an issue or contact me directly at sinthushan@gmail.com. you can find more of my work at [Sinthushan](https://github.com/Sinthushan)
